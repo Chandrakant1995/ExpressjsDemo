@@ -1,0 +1,12 @@
+{
+  "name": "myexp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node exp.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
